@@ -1,0 +1,35 @@
+GIT ACCOUNT:
+
+  Goto github homepage
+  Create github account
+  Create a new repo.
+
+JENKINS SERVER:
+
+  Open AWS homepage and login with root user.
+  Goto services and search for EC2 instance.
+  Click on launch instance.
+  Search for instance and launch .
+  Copy the IP of EC2.
+  Open the mobaxterm, Give the following details and goto advance settings, Click on checkbox and browse the private key.
+
+CREATE JOBS:
+
+ CREATE DOCKERHUB:
+
+   Goto dockerhub homepage.
+   Create the dockerhub account.
+   Click on explore and get the images.
+
+ CREATE A CHART REPO:
+
+   
+RUN THE JOBS:
+
+BUILD EKS CLUSTER:
+
+  Goto AWS console.
+  Login to root user.
+  Search EKS.
+  Create EKS cluster.
+
